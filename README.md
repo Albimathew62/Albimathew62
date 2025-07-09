@@ -1,5 +1,5 @@
 #                                           💫 About Me:
-🔭 I’m currently working on inmakes <br>👯 I’m looking to collaborate on AI, machine learning, and full-stack development projects, <br>      especially in Python, React, and blockchain applications.<br>🤝 I’m looking for help with Enhancing speech synthesis & NLP for AI projects <br>       and improving AWS cloud deployment.<br>🌱 I’m currently learning Ai algorithms,mean stack dev.<br>💬 Ask me about Building dynamic websites, AI-based apps,<br>       and integrating blockchain solutions.<br>⚡ Fun factI can debug code faster than I can decide what <br>      to eat for dinner!
+🔭 I’m currently learning new techh.. <br>👯 I’m looking to collaborate on AI, machine learning, and full-stack development projects, <br>      especially in Python, React, and blockchain applications.<br>🤝 I’m looking for help with Enhancing speech synthesis & NLP for AI projects <br>       and improving AWS cloud deployment.<br>🌱 I’m currently learning Ai algorithms,mean stack dev.<br>💬 Ask me about Building dynamic websites, AI-based apps,<br>       and integrating blockchain solutions.<br>⚡ Fun factI can debug code faster than I can decide what <br>      to eat for dinner!
 
 ## portfolio :https://albimathew62.github.io/portfolio/
 ## 🌐 Socials:
