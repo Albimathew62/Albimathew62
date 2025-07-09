@@ -1,7 +1,7 @@
 #                                           💫 About Me:
 🔭 I’m currently working on inmakes <br>👯 I’m looking to collaborate on AI, machine learning, and full-stack development projects, <br>      especially in Python, React, and blockchain applications.<br>🤝 I’m looking for help with Enhancing speech synthesis & NLP for AI projects <br>       and improving AWS cloud deployment.<br>🌱 I’m currently learning Ai algorithms,mean stack dev.<br>💬 Ask me about Building dynamic websites, AI-based apps,<br>       and integrating blockchain solutions.<br>⚡ Fun factI can debug code faster than I can decide what <br>      to eat for dinner!
 
-
+## portfolio :https://albimathew62.github.io/portfolio/
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Albi Mathews) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@al__b___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Albi Mathew) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/albixui) 
 
